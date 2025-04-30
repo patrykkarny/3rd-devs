@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#090b1099",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#090B10"
+    "peacock.color": "#090B10",
+    "cSpell.words": [
+        "datacenters"
+    ]
 }
